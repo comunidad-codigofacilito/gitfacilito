@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1{
-	color: #D74932;
+	color: #FF5722;
 	font-size: 50px !important;
 	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 }
@@ -42,6 +42,12 @@ h1{
 }
 
 .info{
+	background-color: #212121;
+	color: white;
+	padding: 20px;
+}
+
+.info-2{
 	background-color: #141419;
 	color: white;
 	padding: 20px;
@@ -67,8 +73,8 @@ h1{
 	margin: 5px 0 10px 0;
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: #4299D4;
-	text-shadow: 2px 2px 3px white;
+	color: #1976D2;
+	text-shadow: 1px 1px 4px #BBDEFB;
 }
 
 .infoContent .block{
@@ -83,8 +89,7 @@ h1{
 .btn{
 	padding: 10px 30px;
 	border-radius: 5px;
-	border: 2px solid #D42945;
-	background-color: #5BD418;
+	background-color: #FF5722;
 	color: black;
 	margin: 10px 0;
 	display: inline-block;
