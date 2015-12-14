@@ -42,7 +42,7 @@ h1{
 }
 
 .info{
-	background-color: #141419;
+	background-color: #1c1c1d;
 	color: white;
 	padding: 20px;
 }
@@ -67,8 +67,8 @@ h1{
 	margin: 5px 0 10px 0;
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: #4299D4;
-	text-shadow: 2px 2px 3px white;
+	color: #ffffff;
+	text-shadow: 2px 2px 3px black;
 }
 
 .infoContent .block{
@@ -81,19 +81,22 @@ h1{
 }
 
 .btn{
-	padding: 10px 30px;
-	border-radius: 5px;
-	border: 2px solid #D42945;
-	background-color: #5BD418;
-	color: black;
+	padding: 5px 50px;
+	border-radius: 30px;
+	border: 2px solid #D74932;
+	background-color: transparent;
+	color: white;
+    font-weight: 600;
 	margin: 10px 0;
 	display: inline-block;
 	transition: 0.3s;
+    box-shadow: 0px 1px 3px black;
 }
 
 .btn:hover{
 	transform: scale(1.2);
 	letter-spacing: 3px;
+    background-color: #D74932;
 	color: white;
 }
 
