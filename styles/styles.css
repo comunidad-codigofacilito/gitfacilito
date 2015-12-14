@@ -3,7 +3,8 @@ a{
 }
 
 body{
-	font-family: 'Lato', sans-serif;
+    /*	font-family: 'Lato', sans-serif;*/
+	font-family: 'Signika Negative', sans-serif;
 }
 
 figure{
@@ -15,10 +16,12 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1{
+	font-family: 'Kaushan Script', cursive;
 	color: #D74932;
 	font-size: 50px !important;
 	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 }
+
 
 
 .content{
@@ -48,6 +51,8 @@ h1{
 }
 
 .info h2{
+	font-family: 'Signika Negative', sans-serif;
+	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 	font-size: 50px;
 	margin: 15px 0;
 	text-align: center;
@@ -63,12 +68,13 @@ h1{
 }
 
 .infoContent .block h3{
+	font-family: 'Signika Negative', sans-serif;
 	font-size: 25px;
 	margin: 5px 0 10px 0;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	color: #4299D4;
-	text-shadow: 2px 2px 3px white;
+	/*text-shadow: 2px 2px 3px white;*/
 }
 
 .infoContent .block{
@@ -81,6 +87,7 @@ h1{
 }
 
 .btn{
+	font-family: 'Signika Negative', sans-serif;
 	padding: 10px 30px;
 	border-radius: 5px;
 	border: 2px solid #D42945;
