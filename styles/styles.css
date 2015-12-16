@@ -8,6 +8,7 @@ body{
 }
 
 figure{
+
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -16,8 +17,8 @@ h1,h2,h3,h4,h5,h6{
 
 h1{
 	font-family: 'Kaushan Script', cursive;
-	color: #D74932;
-	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
+	color: #1C1C1D;
+	text-shadow: 4px 4px 5px rgb(255, 255, 255);
 }
 
 
@@ -89,21 +90,18 @@ h1{
 }
 
 .btn{
-<<<<<<< HEAD
 	font-family: 'Signika Negative', sans-serif;
 	padding: 10px 30px;
 	border-radius: 5px;
 	border: 2px solid #D42945;
 	background-color: #5BD418;
 	color: black;
-=======
 	padding: 5px 50px;
 	border-radius: 30px;
 	border: 2px solid #D74932;
 	background-color: transparent;
 	color: white;
     font-weight: 600;
->>>>>>> origin/master
 	margin: 10px 0;
 	display: inline-block;
 	transition: 0.3s;
