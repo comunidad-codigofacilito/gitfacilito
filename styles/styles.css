@@ -68,7 +68,7 @@ h1{
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	color: #4299D4;
-	text-shadow: 2px 2px 3px white;
+	text-shadow: 1px 1px 1px #303a42;
 }
 
 .infoContent .block{
@@ -83,18 +83,24 @@ h1{
 .btn{
 	padding: 10px 30px;
 	border-radius: 5px;
-	border: 2px solid #D42945;
-	background-color: #5BD418;
-	color: black;
+	/*border: 2px solid #303a42;*/
+	background-color: #4299D4;
+	color: rgb(51, 51, 51);
 	margin: 10px 0;
 	display: inline-block;
+	box-shadow: 0px 4px #235a7e;
 	transition: 0.3s;
 }
 
 .btn:hover{
-	transform: scale(1.2);
-	letter-spacing: 3px;
-	color: white;
+	transform: scale(1.05);
+	letter-spacing: 1px;
+	color: rgb(51, 51, 51);
+	box-shadow: 0px 4px #1c4a69;
+}
+
+h2{
+	font-family: 'Pacifico', cursive;
 }
 
 /*Animación*/
