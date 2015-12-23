@@ -22,17 +22,12 @@ h1{
 	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 }
 
-
-
 .content{
 	text-align: center;
 }
 
 .cover{
 	align-items: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background: url(../images/cover.jpg);
 	display: flex;
 	height: 100vh;
 	justify-content: center;
@@ -73,8 +68,7 @@ h1{
 	margin: 5px 0 10px 0;
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: #4299D4;
-	/*text-shadow: 2px 2px 3px white;*/
+	color: #D74932;
 }
 
 .infoContent .block{
@@ -90,8 +84,7 @@ h1{
 	font-family: 'Signika Negative', sans-serif;
 	padding: 10px 30px;
 	border-radius: 5px;
-	border: 2px solid #D42945;
-	background-color: #5BD418;
+	background-color: #F1AC19;
 	color: black;
 	margin: 10px 0;
 	display: inline-block;
@@ -161,6 +154,28 @@ footer ul li a{
 footer ul li a:hover{
 	color: #666;
 	text-decoration: underline;
+}
+
+.logo{
+	background-color: black;
+	padding: 10px;
+}
+
+.git-logo, .github-logo{
+	border: 1px solid white;
+	display: inline-block;
+	vertical-align: middle;
+	width: 40%;
+}
+
+.imagen{
+		width: 60%;
+}
+
+.simbolo-mas{
+	display: inline-block;
+	font-size: 8em;
+	vertical-align: middle;
 }
 
 /*Animación*/
