@@ -104,6 +104,65 @@ h1{
 	color: white;
 }
 
+/*Tutoriales*/
+.tutoriales{
+	background: url(../images/git-cover.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	height: auto;
+	justify-content:center;
+}
+.tutoriales .titulo h2{
+	text-align: center;
+	color: #D74932;
+	font-size: 50px !important;
+	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
+}
+.tutoriales .columna{
+	position: relative;
+	width: 50%;
+	float: left;
+	margin-bottom: 20px;
+}
+.tutoriales .down{
+	position: relative;
+	right: 30px;
+	margin-bottom: 50px;
+}
+
+/*Footer*/
+footer{
+	width: 100%;
+	clear: both;
+	color: #666;
+	background: #141419;
+	line-height: 40px;
+	overflow: hidden;
+}
+footer .left{
+	float: left;
+	margin-left: 20px;
+}
+footer .right{
+	float: right;
+	margin-right: 20px;
+}
+footer ul{
+	list-style: none;
+}
+footer ul li{
+	display: inline-block;
+	margin-right: 5px;
+}
+footer ul li a{
+  color: #666;
+}
+footer ul li a:hover{
+	color: #666;
+	text-decoration: underline;
+}
+
 /*Animación*/
 @keyframes float {
 	50% {
