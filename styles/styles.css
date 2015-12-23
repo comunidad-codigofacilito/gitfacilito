@@ -7,18 +7,18 @@ body{
 	font-family: 'Signika Negative', sans-serif;
 }
 
-figure{
-	margin: 0 !important;
+.content figure{
+	margin: 0;
 }
 
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Raleway', sans-serif;
 }
 
-h1{
+.content h1{
 	font-family: 'Kaushan Script', cursive;
 	color: #D74932;
-	font-size: 50px !important;
+	font-size: 50px;
 	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 }
 
@@ -36,10 +36,10 @@ h1{
 	justify-content: center;
 }
 
-.icon{
+.content .icon{
 	animation: float 1.5s ease-out infinite;
 	color: white;
-	font-size: 80px !important;
+	font-size: 80px;
 }
 
 .info{
@@ -243,8 +243,8 @@ footer ul li a:hover{
 
 /* Media queries*/
 @media all and (min-width: 769px){
-	h1{
-		font-size: 100px !important;
+	.content h1{
+		font-size: 100px;
 	}
 
 	.infoContent .block{
