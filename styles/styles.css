@@ -43,9 +43,45 @@ h1{
 }
 
 .info{
-	background-color: #141419;
+	background-color: #212121;
 	color: white;
 	padding: 20px;
+}
+
+.info-2{
+	background-color: #2196F3;
+	color: white;
+	padding: 20px;
+}
+
+.info-3{
+	background-color: #B6B6B6;
+	color: white;
+	padding: 20px;
+}
+
+.info-3 .block {
+	background-color: #2196F3;
+	margin-bottom: 1em;
+	padding: 1em;
+	border-radius: 4px;
+}
+
+.info ul li {
+	list-style: decimal inside;
+	font-size: 3em;
+	padding: 0.4em;
+	background-color: #2196F3;
+	margin: 20px 0;
+}
+
+.lista {
+	display: flex;
+	justify-content: center;
+}
+
+.info a {
+	color: white;
 }
 
 .info h2{
@@ -71,7 +107,10 @@ h1{
 	margin: 5px 0 10px 0;
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: #D74932;
+}
+
+.infoContent .block h3 a {
+	color: #1976D2 ;
 }
 
 .infoContent .block{
@@ -87,8 +126,8 @@ h1{
 	font-family: 'Signika Negative', sans-serif;
 	padding: 10px 30px;
 	border-radius: 5px;
-	background-color: #F1AC19;
-	color: black;
+	background-color: #FF5722;
+	color: white;
 	margin: 10px 0;
 	display: inline-block;
 	transition: 0.3s;
@@ -98,33 +137,6 @@ h1{
 	transform: scale(1.2);
 	letter-spacing: 3px;
 	color: white;
-}
-
-/*Tutoriales*/
-.tutoriales{
-	background: url(../images/git-cover.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	display: flex;
-	height: auto;
-	justify-content:center;
-}
-.tutoriales .titulo h2{
-	text-align: center;
-	color: #D74932;
-	font-size: 50px !important;
-	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
-}
-.tutoriales .columna{
-	position: relative;
-	width: 50%;
-	float: left;
-	margin-bottom: 20px;
-}
-.tutoriales .down{
-	position: relative;
-	right: 30px;
-	margin-bottom: 50px;
 }
 
 /*Footer*/
@@ -178,6 +190,48 @@ footer ul li a:hover{
 	display: inline-block;
 	font-size: 8em;
 	vertical-align: middle;
+}
+
+/* Estilos de perfil del tutor*/
+
+.cajas {
+	width: 40%;
+	float: left;
+	height: 300px;
+	margin:2em 0; 
+	top: 0;
+}
+
+.cajas a {
+	color: white;
+	margin-left: 0.4em;
+}
+
+.imagen {
+	text-align: center;
+}
+
+.imagen img {
+	width: 280px;
+	padding: 10px;
+	background-color: white;
+	border-radius: 4px;
+	text-align: center;
+
+}
+
+.relleno {
+	clear: both;
+}
+
+.margin-left {
+	margin-left: 2em;
+}
+
+/* Estilos de las clases*/
+
+.clase h3 a {
+	color: #FF5722 !important;
 }
 
 /*Animación*/
