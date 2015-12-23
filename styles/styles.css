@@ -43,7 +43,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .info{
-	background-color: #212121;
+	background-color: #1c1c1d;
 	color: white;
 	padding: 20px;
 }
@@ -110,7 +110,8 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .infoContent .block h3 a {
-	color: #1976D2 ;
+	color: #ffffff;
+	text-shadow: 2px 2px 3px black;
 }
 
 .infoContent .block{
@@ -124,18 +125,22 @@ h1,h2,h3,h4,h5,h6{
 
 .btn{
 	font-family: 'Signika Negative', sans-serif;
-	padding: 10px 30px;
-	border-radius: 5px;
-	background-color: #FF5722;
+	padding: 10px 50px;
+	border-radius: 30px;
+	border: 2px solid #D74932;
+	background-color: transparent;
 	color: white;
+    font-weight: 600;
 	margin: 10px 0;
 	display: inline-block;
 	transition: 0.3s;
+    box-shadow: 0px 1px 3px black;
 }
 
 .btn:hover{
 	transform: scale(1.2);
 	letter-spacing: 3px;
+    background-color: #D74932;
 	color: white;
 }
 
