@@ -1,4 +1,4 @@
-a{
+﻿a{
 	text-decoration: none;
 }
 
@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6{
 
 .content h1{
 	font-family: 'Kaushan Script', cursive;
-	color: #D74932;
+	color: #D74942;
 	font-size: 50px;
 	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 }
@@ -51,13 +51,13 @@ h1,h2,h3,h4,h5,h6{
 .info-2{
 	background-color: #2196F3;
 	color: white;
-	padding: 20px;
+	padding: 40px;
 }
 
 .info-3{
 	background-color: #B6B6B6;
 	color: white;
-	padding: 20px;
+	padding: 24px;
 }
 
 .info-3 .block {
