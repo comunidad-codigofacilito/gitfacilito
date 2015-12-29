@@ -27,9 +27,11 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .cover{
-	background-repeat: no-repeat;
+	position: relative;
+	background: url(https://secure.static.tumblr.com/2b9f839c764dee42ceb18acce4646c38/x2mifrg/7brna6vhh/tumblr_static_2014-07-30_09.18.41_1.jpg);
 	background-size: cover;
-	background: url(../images/cover.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
 	align-items: center;
 	display: flex;
 	height: 100vh;
@@ -177,8 +179,10 @@ footer ul li a:hover{
 }
 
 .logo{
-	background-color: black;
 	padding: 10px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
 }
 
 .git-logo, .github-logo{
@@ -195,6 +199,7 @@ footer ul li a:hover{
 	display: inline-block;
 	font-size: 8em;
 	vertical-align: middle;
+	color: white;
 }
 
 /* Estilos de perfil del tutor*/
