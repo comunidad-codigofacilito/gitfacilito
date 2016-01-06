@@ -73,7 +73,6 @@ h1,h2,h3,h4,h5,h6{
 	list-style: decimal inside;
 	font-size: 3em;
 	padding: 0.4em;
-	background-color: #2196F3;
 	margin: 20px 0;
 }
 
@@ -81,9 +80,11 @@ h1,h2,h3,h4,h5,h6{
 	display: flex;
 	justify-content: center;
 }
-
+.lista ul li a{
+	color:  #2196F3;
+}
 .info a {
-	color: white;
+	/*color: #2196F3;*/
 }
 
 .info h2{
@@ -144,6 +145,11 @@ h1,h2,h3,h4,h5,h6{
 	letter-spacing: 3px;
     background-color: #D74932;
 	color: white;
+}
+.fa:hover{
+	transition: 0.3s;
+	transform: scale(1.4);
+
 }
 
 /*Footer*/
