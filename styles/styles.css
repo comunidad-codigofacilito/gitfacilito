@@ -81,7 +81,9 @@ h1,h2,h3,h4,h5,h6{
     display: flex;
     justify-content: center;
 }
-
+.lista ul li a{
+	color:  white;
+}
 .info a {
     color: white;
 }
@@ -144,6 +146,11 @@ h1,h2,h3,h4,h5,h6{
     letter-spacing: 3px;
     background-color: #D74932;
     color: white;
+}
+.fa:hover{
+	transition: 0.3s;
+	transform: scale(1.4);
+
 }
 
 /*Footer*/
