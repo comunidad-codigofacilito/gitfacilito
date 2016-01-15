@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6{
     justify-content: center;
 }
 .lista ul li a{
-	color:  white;
+    color:  white;
 }
 .info a {
     color: white;
@@ -141,6 +141,10 @@ h1,h2,h3,h4,h5,h6{
     box-shadow: 0px 1px 3px black;
 }
 
+.btn-pint{
+    color: blue;
+}
+
 .btn:hover{
     transform: scale(1.2);
     letter-spacing: 3px;
@@ -148,8 +152,8 @@ h1,h2,h3,h4,h5,h6{
     color: white;
 }
 .fa:hover{
-	transition: 0.3s;
-	transform: scale(1.4);
+    transition: 0.3s;
+    transform: scale(1.4);
 
 }
 
