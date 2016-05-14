@@ -272,3 +272,16 @@ footer ul li a:hover{
         width: 30%;
     }
 }
+
+@media only screen and (max-width : 320px) 
+{
+    .cajas{width: 100%}
+    .info{word-break: break-word}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) 
+{
+   .cajas{width: 100%}
+   .info{word-break: break-word}
+}
