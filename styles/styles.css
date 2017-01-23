@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Signika Negative', sans-serif;
     padding: 10px 50px;
     border-radius: 30px;
-    border: 2px solid #D74932;
+    border: 2px solid peru;
     background-color: transparent;
     color: white;
     font-weight: 600;
@@ -148,7 +148,7 @@ h1,h2,h3,h4,h5,h6{
 .btn:hover{
     transform: scale(1.2);
     letter-spacing: 3px;
-    background-color: #D74932;
+    background-color: peru;
     color: white;
 }
 .fa:hover{
