@@ -1,0 +1,454 @@
+commit c5b3f0ebebc17152691d2571949557d0e2253996
+Merge: 7edacf1 d0106c9
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Sun May 29 09:43:38 2016 -0500
+
+    Merge pull request #34 from ajesusflores/Dev
+    
+    Cambio
+
+commit 7edacf18fadef347576dcc78ac901a174ded7235
+Merge: a32b086 0f47b64
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Sun May 29 09:43:02 2016 -0500
+
+    Merge pull request #35 from orugal/master
+    
+    Error en Maqueta móvil.
+
+commit 0f47b6484d22ab68df78d4dfc5423806072035c6
+Author: orugal <kyo20052@gmail.com>
+Date:   Sat May 14 17:48:44 2016 -0500
+
+    He encontrado un error en la maqueta a la hora de ingresar desde un dispositivo móvil, la maqueta genera Scroll horizontal y no se ve muy bien, además es el escenrio perfecto para practicar ya que estoy tomando el curso de GIT, espero mis cambios puedan ser tomados en cuenta.Gracias
+
+commit d0106c97845f85da7d3eaf065d3485382093d5e5
+Author: Alfonso Flores <floresaj@globalhitss.com>
+Date:   Wed May 11 17:08:44 2016 -0500
+
+    Cambio
+
+commit a32b086741080c5de42cbec2e852d72ddc6efd36
+Merge: c41226a faf46c6
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Sun Jan 24 12:43:49 2016 -0600
+
+    Merge pull request #31 from JuanEsquiviasO/master
+    
+    solucion error linea 141 del index , se retira article
+
+commit faf46c6a2a6f7527efcc29d4d660e56207367317
+Author: Juan Esquivias <juanesquiviasotazu@gmail.com>
+Date:   Mon Jan 18 10:54:02 2016 -0500
+
+    solucion error linea 141 del index , se retira article
+
+commit c41226af9801e7a9b2fbb1cea14cca4de5856ec0
+Merge: 781ef89 37234f4
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Thu Jan 14 19:36:07 2016 -0600
+
+    Merge pull request #30 from studioArtbliss/master
+    
+    Merge de @studioArtbliss (Muchas gracias)
+
+commit 37234f44e3414451331534dd26626a3af1ef6f13
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Sat Jan 9 16:44:58 2016 -0300
+
+    agregando la clase btn-pint en la linea 148 de el css y cambiando el color de la palabra ver de blanco a azul
+
+commit 95795d4f5b164a9dd2603ee0ad5a19efa5da2b41
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Sat Jan 9 16:42:56 2016 -0300
+
+    agregar la clase btn-pint  al pinterest de la linea 143 para poder cambiar el color de la tipografia
+
+commit 0be8367a115201f5231dc787513792c3e2304464
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Sat Jan 9 16:35:03 2016 -0300
+
+    Borro linea 194 (<<<<< origin/master)
+
+commit 2b333d07e14502963151a32128a646b32636a5bc
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Sat Jan 9 16:33:45 2016 -0300
+
+    linea 138 borrada codigo indentado
+
+commit b126c5991e78e21a8f0967bc5ca926313f7a74c1
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Sat Jan 9 16:27:18 2016 -0300
+
+    agregando (target=_blank) y borrando la linea 88
+
+commit 39ac32689b78f8ad4d82b88006dafaceaa771b21
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Sat Jan 9 16:18:09 2016 -0300
+
+    agrego Abir enlaces en una nueva pestaña (target=_blank)
+
+commit f5f5b834fac2813218aefc11d766deeab6fb5844
+Merge: fda8f64 781ef89
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Sat Jan 9 16:00:01 2016 -0300
+
+    actualizacion
+
+commit fda8f64ecccd2b9d73bf082b7a7746b4af362eac
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Sat Jan 9 14:37:51 2016 -0300
+
+    pequeños cambios
+
+commit 781ef89c382e13bd8506ee92c14d66f8fd0450e3
+Merge: 3c8cab4 770fde6
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Fri Jan 8 20:41:43 2016 -0600
+
+    Merge branch 'lenoxzzedwin-master'
+    Merge git lenoxzzedwin, gracias
+
+commit 770fde62aa247657b3e9641f6655998214218b56
+Merge: 3c8cab4 3b33edf
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Fri Jan 8 20:41:33 2016 -0600
+
+    Merge de lenoxzzedwin
+
+commit 3c8cab41db8435048db04d3c888ff2b4dcd6b92a
+Merge: 84ad8d4 1172daf
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Fri Jan 8 20:30:37 2016 -0600
+
+    Merge pull request #28 from studioArtbliss/master
+    
+    Cambio del peso background, Cambio de ruta en css
+
+commit 84ad8d47d4f290ae443551b6f8886cd1f5d44bde
+Merge: a9917a4 a53f463
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Fri Jan 8 20:29:50 2016 -0600
+
+    Merge pull request #26 from ShadowMyst/master
+    
+    Se agrego el correo electronico
+
+commit 3b33edfc4d5de1bbbddc82c749135b4eef1dd302
+Author: edwin <edwinbalbin@outlook.com>
+Date:   Wed Jan 6 12:29:29 2016 -0500
+
+    Añadi animaciones de hover a los .fa y a la lista de tutoriales le puse otro color
+
+commit 1172daf34ac5b8543c305fd44d45293a8b1cb92a
+Author: Carlos Andres Alzate <un.artbliss@gmail.com>
+Date:   Wed Jan 6 11:01:32 2016 -0300
+
+    Cambio del peso background, Cambio de ruta en css
+
+commit a53f46325c4f47ae49ee1276e24a1988cc241202
+Author: Shadow Myst <theshadowmyst@gmail.com>
+Date:   Sun Jan 3 22:36:50 2016 -0600
+
+    Se agrego el correo electronico
+
+commit a9917a4c144daf082bbf050fd77454af8b5f157b
+Merge: 26e5aa3 a94731a
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Tue Dec 29 13:31:08 2015 -0600
+
+    Merge pull request #24 from josealvaradoo/master
+    
+    Nuevo diseño del Cover
+
+commit 26e5aa3f3675abb25766cc33fc08282e99169575
+Merge: 0bcf0c9 8b2235e
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Tue Dec 29 13:30:58 2015 -0600
+
+    Merge pull request #23 from cristianeto/master
+    
+    Se agregó todos los videos del curso Git. by Cristianeto
+
+commit 0bcf0c9d5985119b52b2c45a0770794eb0a8660a
+Merge: ea12577 9d2b8a7
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Tue Dec 29 13:30:41 2015 -0600
+
+    Merge pull request #22 from ErickMoonshine/master
+    
+    Aumente unas cosas por que estaban bien mal
+
+commit a94731a10383de1b52e85fe7238b42f3b4ee0ca8
+Author: Jose Alvarado <jose_alvarado17@hotmail.com>
+Date:   Mon Dec 28 21:55:37 2015 -0430
+
+    Se agregaron 3 imagenes nuevas para el nuevo diseño del Cover, se agrego un archivo js para efecto parallax en el cover, se modifico el diseño del cover
+
+commit 8b2235ea04105a534de67cde872a6ce41590fe1c
+Author: cristianeto <cristianeto@outlook.es>
+Date:   Mon Dec 28 20:01:47 2015 -0500
+
+    Se agregó todos los videos del curso Git. by Cristianeto
+
+commit 9d2b8a7d6ae726ad26e2c7e575a6b07b6385c186
+Author: Erick <erickthecoolkid@gmail.com>
+Date:   Fri Dec 25 20:21:32 2015 -0600
+
+    Aumente unas cosas por que estaban bien mal
+
+commit ea12577cbe4846c6dfcfb26b8aac99ca3c9464ab
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 13:03:25 2015 -0600
+
+    Footer: sugerencias
+
+commit 6c414a4e100e3fce88ca05ecf6767bf19a93e247
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 13:00:11 2015 -0600
+
+    Se eliminaron los .DS_Store
+
+commit 7317afb960e833fde96417145cf70cb1d304bdd9
+Merge: e637d53 01b52ef
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 12:44:44 2015 -0600
+
+    Merge branch 'EliuTimana-master'
+    merge de EliuTimana
+
+commit 01b52eff020d1c53aa61fc2085cf3f03a4697cd7
+Merge: e637d53 59d1bfe
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 12:44:26 2015 -0600
+
+    Modificados estilo de botones y colores de fondo
+
+commit e637d534e9b9d11d89053af1993bd957976fe2b7
+Merge: e4c3d86 97ccdbc
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 12:36:59 2015 -0600
+
+    Merge branch 'enzocv-master'
+    Merge de enzocv
+
+commit 97ccdbc5cfcef898c7135d46815aa6ab8bfdfca5
+Merge: e4c3d86 e84ebbf
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 12:36:35 2015 -0600
+
+    Corregidos y Eliminados todos los importants
+
+commit e4c3d860d2a35c8cebae2564962e7482fe7c7ce7
+Merge: 7ee336b 76c6fde
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 12:22:48 2015 -0600
+
+    Merge branch 'nayeldavila-master'
+    Merge de nayeldavila
+
+commit 76c6fde7776de8826b1a1d6b5b676b45a452616d
+Merge: 7ee336b d93bd85
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 12:22:27 2015 -0600
+
+    Cambios de nayeldavila
+
+commit 7ee336b1849cedd744c0ec6273636eee50c81b8e
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 11:52:19 2015 -0600
+
+    Cambio cover e imagenes
+
+commit da3c9fad15f55f3f82431cab3d5ddf3c5d6dc3e2
+Merge: 9e41451 313a0ba
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 11:39:42 2015 -0600
+
+    Merge branch 'alxmcr-master'
+    Merge del proyecto actual + aalxmcr
+
+commit 313a0ba206fdf451b02115c5d7ca4ed85f9deb11
+Merge: 9e41451 018aaaa
+Author: Fili Santillan <fili06604@gmail.com>
+Date:   Wed Dec 23 11:39:29 2015 -0600
+
+    Cambios de alxmcr
+
+commit 9e4145135e856b4faf581de61a458320acef05b8
+Merge: 6ee01fc 25de608
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Wed Dec 23 11:13:38 2015 -0600
+
+    Merge pull request #8 from simonppg/master
+    
+    Agregando los links a los botones
+
+commit 6ee01fcb74bcc463806b343723f3be94924949e0
+Merge: c4e1f5f a6d0313
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Wed Dec 23 11:11:13 2015 -0600
+
+    Merge pull request #15 from izzat1029/master
+    
+    Agregue el favicon de git, una sección de tutoriales y el footer
+
+commit c4e1f5fb5392410164a284abdb4d3f26c1a62973
+Merge: 214188d 6937ed1
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Wed Dec 23 11:07:47 2015 -0600
+
+    Merge pull request #20 from djap96/master
+    
+    Cambiando el article link por Pinterest lml
+
+commit 214188d66a130909efd92ec350e463089d216346
+Merge: 9bc39ee 6a95be2
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Wed Dec 23 11:00:35 2015 -0600
+
+    Merge pull request #9 from mauri01/master
+    
+    Se realizo cambios de Fuentes Tipograficas en General
+
+commit 6937ed1b9041840b3182067e2bc644d068e4a18c
+Author: Diego <saintplay96@gmail.com>
+Date:   Fri Dec 18 10:03:56 2015 -0500
+
+    Cambiando el article link por Pinterest lml
+
+commit 018aaaa4ab7018cd2530b86dfbca410a8d272826
+Author: Alejandro Coca <alxmcr@outlook.com>
+Date:   Wed Dec 16 19:27:00 2015 -0400
+
+    Se organizo mejor los links
+
+commit a6d0313ce6c07b2918b273e33603abcc72251d60
+Author: izzat <izzat1029@hotmail.com>
+Date:   Mon Dec 14 23:08:53 2015 -0500
+
+    agregue el favicon de git, una seccion de tutoriales y el footer
+
+commit e84ebbfebd1827b61e5f6e8ce73ff1d411a989df
+Author: Enzo Catalán Vargas <enzocv96@gmail.com>
+Date:   Mon Dec 14 21:37:19 2015 -0500
+
+    Corregidos y Eliminados todos los importants
+
+commit d93bd8543b4b1f1e21f3d6b11c23688518753a19
+Author: Jacu <nay-jose@hotmail.com>
+Date:   Mon Dec 14 16:06:55 2015 -0500
+
+    Agregagos un perfil del tutor y una lista de las clases con sus respectivos estilos en css
+
+commit 07277e71fe824d5887ec7c3c452e1492003c1a59
+Author: Alejandro M. Coca <alxmcr@outlook.com>
+Date:   Mon Dec 14 12:21:12 2015 -0400
+
+    Subiendo logos de git y github, quitar la imagen como fondo, cambiar el color de los botones y el texto de los enlaces
+
+commit 6a95be27f21f9c494db000bea03ba34619ef32ad
+Author: Mauricio <mauri.escobar01@gmail.com>
+Date:   Sun Dec 13 23:46:27 2015 -0300
+
+    Se realizo cambios de Fuentes Tipograficas en General
+
+commit 25de608936d3bb1ab409c10e4d0d6628d184ab89
+Author: simonppg <simonppg@gmail.com>
+Date:   Sun Dec 13 19:33:45 2015 -0600
+
+    Agregando los links a los botones
+
+commit 59d1bfe65628562dab36e1f8da9789923664950b
+Author: Eliu Timana <eliutimana@gmail.com>
+Date:   Sun Dec 13 20:01:11 2015 -0500
+
+    Modificados botones y colores de fondo
+
+commit 9bc39eeafedc8be5d799ff332192bf0f3b799bb0
+Merge: e468e29 3581d16
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Tue Dec 8 05:08:10 2015 -0600
+
+    Merge pull request #1 from omarmx/master
+    
+    Solucion al error de los botones
+
+commit 3581d16b4afc58956586e2f1e3b5e9d152c746da
+Author: Fili Santillán <filimx@MacBook-Air-de-Filiberto.local>
+Date:   Tue Dec 8 05:02:09 2015 -0600
+
+    Solucion al error de los botones
+
+commit e468e293ebb3921731e67964a140e7033dd5536f
+Merge: 60fd2a0 09d9980
+Author: Fili Santillán <filimx@MacBook-Air-de-Filiberto.local>
+Date:   Tue Dec 8 04:17:19 2015 -0600
+
+    Se arreglaron los conflictos y se quedo el H2 de fili
+
+commit 60fd2a0c0e6749f32dc63c4365e5b5ed62aff4e2
+Author: Fili Santillán <filimx@MacBook-Air-de-Filiberto.local>
+Date:   Tue Dec 8 04:11:14 2015 -0600
+
+    Se cambio el H2
+
+commit 09d99801a2a729e1a2e1dd452a5f0a1a46d686d6
+Author: Fili Santillán <filimx@MacBook-Air-de-Filiberto.local>
+Date:   Tue Dec 8 04:10:42 2015 -0600
+
+    Cambiamos el titulo del H2
+
+commit afdcb6c132dfb03aeafb8ecb4bd842200f248ae4
+Author: Fili Santillán <filimx@MacBook-Air-de-Filiberto.local>
+Date:   Tue Dec 8 04:05:10 2015 -0600
+
+    Agregamos un nuevo article: link
+
+commit a4984c4b8949a3a6759ecd9ccf2c3f1bbba1f4a8
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Thu Dec 3 17:10:10 2015 -0600
+
+    Cambio en h3
+
+commit f4f3981ac34d3ec1dc7395afa3c1071819de8964
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Thu Dec 3 17:08:20 2015 -0600
+
+    Cambiamos el h2
+
+commit 3de235fd05d321d66442bddbefe526d689d87168
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Thu Dec 3 17:04:37 2015 -0600
+
+    Agregamos article de instagram
+
+commit 32255bd3208a415e637d2c19c4c0414a321cb2da
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Thu Dec 3 17:01:33 2015 -0600
+
+    Arreglamos border del boton y agregamos el article de github
+
+commit 28dd68c5ed40c21145f92b0ee3fee4e0001d396f
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Wed Dec 2 16:44:18 2015 -0600
+
+    Cambio titulo, cambio parrafo, cambio en el boton
+
+commit dd9afb3125af8eef3903d756ec819ec0a75a7ba4
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Wed Dec 2 16:32:28 2015 -0600
+
+    Se agrego animacion
+
+commit f8c361557fc162b4cd680f424cc8aa28265525d9
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Wed Dec 2 16:30:33 2015 -0600
+
+    Se agrego twitter y se cambio los estilos del boton
+
+commit d463866e3b6acd2d08e393eca6b2e81e1383bf29
+Author: Fili Santillán <fili06604@gmail.com>
+Date:   Thu Nov 5 19:52:36 2015 -0600
+
+    Iniciamos
