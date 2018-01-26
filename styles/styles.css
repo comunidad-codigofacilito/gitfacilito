@@ -285,3 +285,11 @@ footer ul li a:hover{
    .cajas{width: 100%}
    .info{word-break: break-word}
 }
+
+.icon-social {
+    transition: transform 2s;
+}
+
+.icon-social:hover {
+    transform: rotate(360deg) scale(1.3);
+}
