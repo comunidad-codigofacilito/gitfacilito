@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6{
 
 .content h1{
     font-family: 'Kaushan Script', cursive;
-    color: #D74942;
+    color: #F03C2E;
     font-size: 50px;
     text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 }
@@ -51,7 +51,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .info-2{
-    background-color: #2196F3;
+    background-color: #F03C2E;
     color: white;
     padding: 40px;
 }
@@ -73,7 +73,7 @@ h1,h2,h3,h4,h5,h6{
     list-style: decimal inside;
     font-size: 3em;
     padding: 0.4em;
-    background-color: #2196F3;
+    background-color: #F03C2E;
     margin: 20px 0;
 }
 
