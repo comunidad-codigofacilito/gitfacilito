@@ -42,6 +42,7 @@ h1,h2,h3,h4,h5,h6{
     animation: float 1.5s ease-out infinite;
     color: white;
     font-size: 80px;
+    
 }
 
 .info{
@@ -155,6 +156,9 @@ h1,h2,h3,h4,h5,h6{
     transition: 0.3s;
     transform: scale(1.4);
 
+}
+.fa{
+    transition: 0.3s;
 }
 
 /*Footer*/
