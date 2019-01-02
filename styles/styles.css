@@ -238,7 +238,11 @@ footer ul li a:hover{
     background-color: white;
     border-radius: 4px;
     text-align: center;
+	-webkit-transition:width 1s;
+}
 
+.imagen img:hover{
+	width: 320px;
 }
 
 .relleno {
