@@ -129,9 +129,9 @@ h1,h2,h3,h4,h5,h6{
 
 .btn{
     font-family: 'Signika Negative', sans-serif;
-    padding: 10px 50px;
-    border-radius: 30px;
-    border: 2px solid #D74932;
+    padding: 10px 60px;
+    border-radius: 30px red;
+    border: 2px solid rgb(50, 67, 215);
     background-color: transparent;
     color: white;
     font-weight: 600;
