@@ -189,17 +189,11 @@ footer ul li a:hover{
     text-decoration: underline;
 }
 
-.logo{
-    padding: 10px;
-    position: absolute;
-    top: 10px;
-    left: 10px;
-}
 
 .git-logo, .github-logo{
     display: inline-block;
     vertical-align: middle;
-    width: 40%;
+    width: 20%;
 }
 
 .imagen{
