@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6{
 
 .cover{
     position: relative;
-    background: url(../images/background-1.jpg);
+    background: url(../images/cover.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
