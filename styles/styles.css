@@ -18,8 +18,8 @@ h1,h2,h3,h4,h5,h6{
 .content h1{
     font-family: 'Kaushan Script', cursive;
     color: #D74942;
-    font-size: 50px;
-    text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
+    font-size: 100px;
+    text-shadow: 10px 4px 5px rgba(0,0,0,0.5);
 }
 
 .content{
@@ -39,9 +39,9 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .content .icon{
-    animation: float 1.5s ease-out infinite;
+    animation: float 0.5s ease-out infinite;
     color: white;
-    font-size: 80px;
+    font-size: 60px;
 }
 
 .info{
@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6{
 .info-3{
     background-color: #B6B6B6;
     color: white;
-    padding: 24px;
+    padding: 44px;
 }
 
 .info-3 .block {
@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6{
     justify-content: center;
 }
 .lista ul li a{
-    color:  white;
+    color:  green;
 }
 .info a {
     color: white;
