@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6{
 .content h1{
     font-family: 'Kaushan Script', cursive;
     color: #D74942;
-    font-size: 50px;
+    font-size: 60px;
     text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 }
 
