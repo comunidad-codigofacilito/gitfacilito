@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6{
 
 .cover{
     position: relative;
-    background: url(../images/background-1.jpg);
+    background: url(../images/new-background.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -196,19 +196,27 @@ footer ul li a:hover{
     left: 10px;
 }
 
-.git-logo, .github-logo{
+.git-logo{
     display: inline-block;
     vertical-align: middle;
-    width: 40%;
+    padding-left: 8%;
+    width: 31%;
 }
 
+.github-logo{
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 1.4%;
+    width: 42%;
+}
 .imagen{
-        width: 60%;
+        width: 70%;
 }
 
 .simbolo-mas{
     display: inline-block;
     font-size: 8em;
+    padding-left: 3%;
     vertical-align: middle;
     color: white;
 }
